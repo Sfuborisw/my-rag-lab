@@ -1,5 +1,12 @@
-.env
+# Python caches
 __pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Vector database data (Local only)
 vector_db/
-.ipynb_checkpoints/
-data/*.pdf

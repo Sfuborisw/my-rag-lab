@@ -1,4 +1,6 @@
 🚀 Simple-RAG: Privacy-First AI Data System
+
+
 This is a Question & Answering system built on Retrieval-Augmented Generation (RAG) technology. This project focuses on Privacy-First AI, allowing users to process PDF documents and query them entirely on local infrastructure, effectively mitigating LLM hallucinations and data leakage risks.
 
 🌟 Key Features
